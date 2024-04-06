@@ -1,4 +1,4 @@
-# Realistic Image Generator 🤖 🖼️
+# Realistic Image Generator 🤖 📷
 Realistic Image Generator is a tool to generate realistic images with AI (artificial intelligence).
 ![real](https://github.com/ForbiddenApps/Realistic-Image-Generator/assets/164560634/63854d34-a149-467c-b4ed-bf8992d4da4d)
 
