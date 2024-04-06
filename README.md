@@ -28,7 +28,7 @@ Some images generated using ladies as an example:
 
  ## Buy the source code </>
  
-If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python and includes information about how to configure the application.
+If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python and includes information about how to configure the application and how to configure the pretrained model.
 
 Payment method: **Bitcoin**, **Litecoin** and **Ethereum**.
 
