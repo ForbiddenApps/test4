@@ -10,9 +10,9 @@ Some images generated using ladies as an example:
 
 ## Features 💣
 
-+ Generate any type of image.
-+ Very realistic images generation.
-+ Download the generate image to .jpg format.
++ Generate any image.
++ Very realistic image generation.
++ Download the generated image to .jpg format.
 + No installation required.
 + Easy to use.
 
