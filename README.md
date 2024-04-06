@@ -12,6 +12,7 @@ Some images generated using ladies as an example:
 
 + Generate any image.
 + Very realistic image generation.
++ Fast generation
 + Download the generated image to .jpg format.
 + No installation required.
 + Easy to use.
