@@ -1,5 +1,5 @@
 # Realistic Image Generator 🤖 📷
-Realistic Image Generator is a tool to generate realistic images with AI (artificial intelligence)
+Realistic Image Generator is a tool to generate realistic images with AI (artificial intelligence).
 ![real](https://github.com/ForbiddenApps/Realistic-Image-Generator/assets/164560634/63854d34-a149-467c-b4ed-bf8992d4da4d)
 
 Some images generated using ladies as an example:
@@ -29,7 +29,7 @@ Some images generated using ladies as an example:
 
  ## Buy the source code </>
  
-If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in Python and includes information about how to configure the application and how to configure the pretrained model.
+If you are interested in purchasing this project you can purchase the source code of this tool. The tool is made in PHP and includes information about how to configure the application and how to configure the pretrained model.
 
 Payment method: **Bitcoin**, **Litecoin** and **Ethereum**.
 
